@@ -138,10 +138,13 @@ body {
 
 .download-button.tertiary:hover {
     background-color: #333;
+    color: #fff;
 }
 
-.download-button.tertiary:active {
+.download-button.tertiary:active,
+.download-button.tertiary:focus-visible {
     background-color: #333;
+    color: #fff;
 }
 
 .page-label {
