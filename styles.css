@@ -133,18 +133,18 @@ body {
 .download-button.tertiary {
     background-color: transparent;
     color: #333;
-    border: 1px solid #e6e5e0;
+    border: 1px solid #c2c1ba;
 }
 
 .download-button.tertiary:hover {
-    background-color: #333;
-    color: #fff;
+    background-color: #dbdbd7;
+    color: #333;
 }
 
 .download-button.tertiary:active,
 .download-button.tertiary:focus-visible {
-    background-color: #333;
-    color: #fff;
+    background-color: #dbdbd7;
+    color: #333;
 }
 
 .page-label {
